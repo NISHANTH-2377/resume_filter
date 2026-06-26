@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0006567,1,0.9920,Senior AI Engineer with 7.9 yrs; 15 AI core skills; response rate 0.79.
+CAND_0077337,2,0.9404,Staff Machine Learning Engineer with 7.0 yrs; 11 AI core skills; response rate 0.95.
+CAND_0026942,3,0.9276,Junior ML Engineer with 6.0 yrs; 13 AI core skills; response rate 0.84.
+CAND_0081686,4,0.9071,Search Engineer with 6.0 yrs; 10 AI core skills; response rate 0.91.
+CAND_0022812,5,0.9045,Applied ML Engineer with 4.5 yrs; 10 AI core skills; response rate 0.79.
+CAND_0010685,6,0.8994,NLP Engineer with 6.7 yrs; 9 AI core skills; response rate 0.83.
+CAND_0044883,7,0.8965,AI Engineer with 6.3 yrs; 11 AI core skills; response rate 0.84.
+CAND_0055992,8,0.8959,AI Engineer with 16.9 yrs; 10 AI core skills; response rate 0.72.
+CAND_0005538,9,0.8956,Senior AI Engineer with 5.9 yrs; 10 AI core skills; response rate 0.81.
+CAND_0030784,10,0.8894,Data Scientist with 4.4 yrs; 10 AI core skills; response rate 0.90.
+CAND_0045064,11,0.8865,HR Manager with 7.8 yrs; 12 AI core skills; response rate 0.71.
+CAND_0061265,12,0.8847,Recommendation Systems Engineer with 6.6 yrs; 9 AI core skills; response rate 0.94.
+CAND_0046108,13,0.8781,ML Engineer with 3.6 yrs; 10 AI core skills; response rate 0.87.
+CAND_0096474,14,0.8781,Civil Engineer with 10.8 yrs; 8 AI core skills; response rate 0.78.
+CAND_0092941,15,0.8779,Civil Engineer with 14.4 yrs; 9 AI core skills; response rate 0.76.
+CAND_0082314,16,0.8772,Junior ML Engineer with 4.0 yrs; 10 AI core skills; response rate 0.86.
+CAND_0034568,17,0.8770,Accountant with 7.2 yrs; 11 AI core skills; response rate 0.70.
+CAND_0052682,18,0.8766,NLP Engineer with 6.6 yrs; 9 AI core skills; response rate 0.88.
+CAND_0064215,19,0.8763,Civil Engineer with 8.7 yrs; 10 AI core skills; response rate 0.72.
+CAND_0068351,20,0.8751,Lead AI Engineer with 6.4 yrs; 9 AI core skills; response rate 0.86.
+CAND_0070525,21,0.8729,Senior Software Engineer (ML) with 5.4 yrs; 8 AI core skills; response rate 0.93.
+CAND_0072784,22,0.8728,AI Specialist with 3.4 yrs; 10 AI core skills; response rate 0.80.
+CAND_0071550,23,0.8704,Sales Executive with 2.0 yrs; 11 AI core skills; response rate 0.70.
+CAND_0005260,24,0.8703,Senior NLP Engineer with 5.2 yrs; 10 AI core skills; response rate 0.86.
+CAND_0057202,25,0.8702,Civil Engineer with 13.9 yrs; 10 AI core skills; response rate 0.62.
+CAND_0074735,26,0.8698,Applied ML Engineer with 5.5 yrs; 8 AI core skills; response rate 0.77.
+CAND_0026913,27,0.8693,AI Specialist with 3.9 yrs; 8 AI core skills; response rate 0.87.
+CAND_0065139,28,0.8692,AI Research Engineer with 5.2 yrs; 9 AI core skills; response rate 0.82.
+CAND_0090300,29,0.8674,AI Research Engineer with 5.3 yrs; 7 AI core skills; response rate 0.94.
+CAND_0089889,30,0.8673,Data Scientist with 4.3 yrs; 12 AI core skills; response rate 0.79.
+CAND_0028527,31,0.8662,AI Specialist with 5.4 yrs; 10 AI core skills; response rate 0.90.
+CAND_0086831,32,0.8652,Marketing Manager with 14.9 yrs; 10 AI core skills; response rate 0.74.
+CAND_0081846,33,0.8639,Lead AI Engineer with 6.7 yrs; 12 AI core skills; response rate 0.73.
+CAND_0025206,34,0.8631,QA Engineer with 2.1 yrs; 9 AI core skills; response rate 0.81.
+CAND_0050814,35,0.8619,Java Developer with 9.9 yrs; 9 AI core skills; response rate 0.78.
+CAND_0001980,36,0.8613,Operations Manager with 8.7 yrs; 11 AI core skills; response rate 0.74.
+CAND_0094056,37,0.8592,NLP Engineer with 5.9 yrs; 10 AI core skills; response rate 0.82.
+CAND_0000031,38,0.8582,Recommendation Systems Engineer with 6.0 yrs; 10 AI core skills; response rate 0.91.
+CAND_0037980,39,0.8575,Senior Applied Scientist with 9.0 yrs; 12 AI core skills; response rate 0.63.
+CAND_0068985,40,0.8560,Senior Software Engineer (ML) with 5.2 yrs; 8 AI core skills; response rate 0.88.
+CAND_0038206,41,0.8536,Data Scientist with 3.5 yrs; 10 AI core skills; response rate 0.81.
+CAND_0020049,42,0.8510,Senior Software Engineer (ML) with 3.8 yrs; 10 AI core skills; response rate 0.78.
+CAND_0063622,43,0.8497,Computer Vision Engineer with 5.2 yrs; 9 AI core skills; response rate 0.92.
+CAND_0013495,44,0.8492,Graphic Designer with 12.1 yrs; 9 AI core skills; response rate 0.75.
+CAND_0079407,45,0.8490,Project Manager with 7.5 yrs; 10 AI core skills; response rate 0.72.
+CAND_0018764,46,0.8483,Sales Executive with 13.1 yrs; 7 AI core skills; response rate 0.73.
+CAND_0052718,47,0.8472,Customer Support with 12.9 yrs; 7 AI core skills; response rate 0.77.
+CAND_0043860,48,0.8465,Junior ML Engineer with 6.1 yrs; 9 AI core skills; response rate 0.81.
+CAND_0027090,49,0.8457,Customer Support with 14.5 yrs; 9 AI core skills; response rate 0.71.
+CAND_0042593,50,0.8452,Customer Support with 13.3 yrs; 9 AI core skills; response rate 0.75.
+CAND_0005230,51,0.8450,Frontend Engineer with 4.8 yrs; 11 AI core skills; response rate 0.72.
+CAND_0072688,52,0.8442,Data Scientist with 6.9 yrs; 10 AI core skills; response rate 0.87.
+CAND_0000330,53,0.8441,Civil Engineer with 12.0 yrs; 11 AI core skills; response rate 0.60.
+CAND_0002025,54,0.8439,Senior AI Engineer with 5.9 yrs; 10 AI core skills; response rate 0.80.
+CAND_0007391,55,0.8436,Data Scientist with 4.3 yrs; 11 AI core skills; response rate 0.79.
+CAND_0007994,56,0.8436,Software Engineer with 6.6 yrs; 10 AI core skills; response rate 0.77.
+CAND_0029364,57,0.8433,Full Stack Developer with 3.0 yrs; 9 AI core skills; response rate 0.77.
+CAND_0067624,58,0.8430,Sales Executive with 2.8 yrs; 11 AI core skills; response rate 0.67.
+CAND_0046525,59,0.8428,Senior Machine Learning Engineer with 6.1 yrs; 8 AI core skills; response rate 0.88.
+CAND_0045080,60,0.8425,Sales Executive with 15.0 yrs; 8 AI core skills; response rate 0.77.
+CAND_0088526,61,0.8425,Senior Software Engineer (ML) with 4.6 yrs; 8 AI core skills; response rate 0.80.
+CAND_0034756,62,0.8422,Cloud Engineer with 8.9 yrs; 7 AI core skills; response rate 0.80.
+CAND_0057563,63,0.8419,NLP Engineer with 6.8 yrs; 7 AI core skills; response rate 0.83.
+CAND_0080344,64,0.8416,Senior Software Engineer (ML) with 4.9 yrs; 11 AI core skills; response rate 0.70.
+CAND_0066945,65,0.8415,HR Manager with 11.5 yrs; 9 AI core skills; response rate 0.77.
+CAND_0059806,66,0.8407,Software Engineer with 1.2 yrs; 7 AI core skills; response rate 0.84.
+CAND_0091715,67,0.8407,Accountant with 4.5 yrs; 9 AI core skills; response rate 0.76.
+CAND_0094614,68,0.8407,Operations Manager with 7.8 yrs; 8 AI core skills; response rate 0.76.
+CAND_0083852,69,0.8405,Data Scientist with 6.0 yrs; 8 AI core skills; response rate 0.85.
+CAND_0008425,70,0.8403,Senior NLP Engineer with 7.8 yrs; 11 AI core skills; response rate 0.66.
+CAND_0038328,71,0.8400,Junior ML Engineer with 4.0 yrs; 9 AI core skills; response rate 0.75.
+CAND_0031829,72,0.8392,Senior Software Engineer with 6.5 yrs; 9 AI core skills; response rate 0.73.
+CAND_0070719,73,0.8384,Customer Support with 5.4 yrs; 8 AI core skills; response rate 0.73.
+CAND_0060345,74,0.8382,Civil Engineer with 12.4 yrs; 8 AI core skills; response rate 0.70.
+CAND_0030468,75,0.8381,Senior Applied Scientist with 5.4 yrs; 11 AI core skills; response rate 0.78.
+CAND_0001610,76,0.8377,Machine Learning Engineer with 3.0 yrs; 11 AI core skills; response rate 0.57.
+CAND_0096209,77,0.8377,ML Engineer with 4.2 yrs; 8 AI core skills; response rate 0.90.
+CAND_0067201,78,0.8374,ML Engineer with 6.0 yrs; 9 AI core skills; response rate 0.77.
+CAND_0012584,79,0.8373,Sales Executive with 11.9 yrs; 8 AI core skills; response rate 0.78.
+CAND_0080472,80,0.8371,Junior ML Engineer with 4.4 yrs; 8 AI core skills; response rate 0.91.
+CAND_0069905,81,0.8367,Applied ML Engineer with 6.6 yrs; 11 AI core skills; response rate 0.78.
+CAND_0004673,82,0.8359,Customer Support with 12.1 yrs; 9 AI core skills; response rate 0.76.
+CAND_0089994,83,0.8359,Frontend Engineer with 9.9 yrs; 6 AI core skills; response rate 0.85.
+CAND_0027691,84,0.8355,NLP Engineer with 6.5 yrs; 11 AI core skills; response rate 0.68.
+CAND_0073007,85,0.8353,AI Specialist with 5.8 yrs; 10 AI core skills; response rate 0.83.
+CAND_0088713,86,0.8353,Cloud Engineer with 8.1 yrs; 6 AI core skills; response rate 0.83.
+CAND_0091822,87,0.8353,Content Writer with 8.7 yrs; 11 AI core skills; response rate 0.71.
+CAND_0084819,88,0.8350,Search Engineer with 4.5 yrs; 9 AI core skills; response rate 0.74.
+CAND_0019474,89,0.8349,Marketing Manager with 14.3 yrs; 9 AI core skills; response rate 0.68.
+CAND_0086087,90,0.8347,Accountant with 9.4 yrs; 8 AI core skills; response rate 0.62.
+CAND_0054747,91,0.8346,Customer Support with 13.0 yrs; 8 AI core skills; response rate 0.73.
+CAND_0020708,92,0.8343,Search Engineer with 4.2 yrs; 11 AI core skills; response rate 0.84.
+CAND_0061953,93,0.8343,.NET Developer with 9.8 yrs; 8 AI core skills; response rate 0.73.
+CAND_0017670,94,0.8342,Customer Support with 11.7 yrs; 9 AI core skills; response rate 0.57.
+CAND_0074942,95,0.8341,Project Manager with 14.6 yrs; 9 AI core skills; response rate 0.77.
+CAND_0017443,96,0.8338,Mechanical Engineer with 11.7 yrs; 12 AI core skills; response rate 0.63.
+CAND_0092207,97,0.8338,Full Stack Developer with 4.5 yrs; 7 AI core skills; response rate 0.81.
+CAND_0057294,98,0.8334,Senior Software Engineer with 3.3 yrs; 11 AI core skills; response rate 0.76.
+CAND_0061604,99,0.8333,.NET Developer with 7.1 yrs; 7 AI core skills; response rate 0.80.
+CAND_0083255,100,0.8333,Content Writer with 13.1 yrs; 8 AI core skills; response rate 0.74.
