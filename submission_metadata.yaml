@@ -33,7 +33,7 @@ github_repo: "https://github.com/NISHANTH-2377/resume_filter.git"
 # Required. Must be reachable. Private repos OK if you can grant organizer
 # access at Stage 3 (the email to add will be communicated then).
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/Nishanthnish/resume_filter"
 # Required. A working hosted environment where the ranker can be run on a small
 # candidate sample. See Section 10.5 of submission_spec.md for acceptable
 # platforms (HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker, Binder).
@@ -53,7 +53,7 @@ compute:
   os: "Windows 11/Ubuntu 22.04 LTS"                              # Or "Ubuntu 22.04 LTS", etc.
   uses_gpu_for_inference: false                 # Must be false — see compute constraints
   has_network_during_ranking: false             # Must be false — no API calls during ranking
-  pre_computation_required: True               # train models offline (not required if the model is already trained and store in the 'models' directory)
+  pre_computation_required: false          # model is trained and stored in the 'models' directory.     # train models offline (not required if the model is already trained and store in the 'models' directory)
   pre_computation_time_minutes: 1.25 hrs         # Approximate (Using Nvidia RTX 3050 6GB laptop GPU, time varies if cloud resources or higher end GPU's are used)
 
 # ============================================================================
