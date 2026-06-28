@@ -2,6 +2,8 @@
 
 A small project for training and running a resume scoring/filtering model that ranks candidate resumes against job descriptions. The repository contains training and test/inference scripts, model artifacts, and example output.
 
+The model also uses semantic AI-skill matching by comparing candidate skills against a predefined set of AI-skill anchors such as "artificial intelligence", "machine learning", and "generative AI". This is not simple keyword matching; it uses sentence embeddings and similarity scoring to detect related AI skills, and it produces an additional feature used during both training and inference.
+
 ## Contents
 
 - `train_model.py` — train the resume scoring model.
@@ -49,6 +51,7 @@ The produced CSV will be written to the `output/` folder (for example `output/su
 - Always make sure `datasets/candidates.jsonl` is present before running `test_model.py`.
 - If you want to evaluate with a different candidate set, replace `datasets/candidates.jsonl` and run `test_model.py`.
 - Inspect `feature_metadata.json` in `models/` if you need to confirm expected features and preprocessing steps.
+- The AI-skill matching uses sentence embeddings and a similarity threshold defined in `train_model.py` and `test_model.py`; it is semantic rather than keyword-based, so keep the anchor list and threshold consistent between training and inference if you change them.
 
 ## Troubleshooting
 
